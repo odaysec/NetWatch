@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-**NetWatch Pro** is a comprehensive, production-ready network monitoring system designed for cybersecurity professionals, network administrators, and IT teams. Built with modern web technologies and featuring a professional FBI/CIA-style interface, NetWatch Pro provides real-time network analysis, security monitoring, and infrastructure management capabilities.
+**NetWatch Pro** is a comprehensive, production-ready network monitoring system designed for cybersecurity professionals, network administrators, and IT teams. Built with modern web technologies and featuring a professional-style interface, NetWatch Pro provides real-time network analysis, security monitoring, and infrastructure management capabilities.
 
 ### 🎯 Key Highlights
 
