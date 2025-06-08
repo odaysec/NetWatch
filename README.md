@@ -562,7 +562,7 @@ NetWatch Pro supports all modern browsers:
 ## 🔗 Useful Links
 
 - **GitHub Repository**: [https://github.com/odaysec/NetWatch](https://github.com/odaysec/NetWatch)
-- **Live Demo**: [https://netwatch-pro.demo.com](https://netwatch-pro.demo.com)
+- **Live Demo**: [netwatchpro-testprod](https://netwatchpro-testprod.zerodaysec.org/)
 - **Documentation**: [https://docs.netwatch-pro.com](https://docs.netwatch-pro.com)
 - **Issue Tracker**: [https://github.com/odaysec/NetWatch/issues](https://github.com/odaysec/NetWatch/issues)
 - **Discussions**: [https://github.com/odaysec/NetWatch/discussions](https://github.com/odaysec/NetWatch/discussions)
