@@ -611,3 +611,7 @@ SOFTWARE.
 **⭐ Star this project if you find it useful!**
 
 *NetWatch Pro - Professional Network Monitoring for the Modern Enterprise*
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=odaysec/NetWatch&type=Date)](https://www.star-history.com/#odaysec/NetWatch&Date)
